@@ -9,7 +9,7 @@
 
 ---
 
-# ***Perancangan Website Taman Salma Shofa***
+# ***Perancangan Website Taman Salma Shofa Samarinda***
 
 Taman Salma Shofa Samarinda merupakan salah satu tempat wisata rekreasi keluarga yang menawarkan berbagai fasilitas seperti kolam renang, gazebo, area bermain, dan spot foto dengan suasana alam yang asri. Namun, penyampaian informasi di tempat wisata ini masih belum optimal karena belum tersedia media yang menyajikan informasi secara lengkap dan terpusat. Selain itu, pengelolaan ketersediaan gazebo masih dilakukan secara manual sehingga kurang efisien dan berpotensi menimbulkan miskomunikasi.
 
@@ -17,7 +17,7 @@ Oleh karena itu, dikembangkan website sebagai sistem informasi yang menyediakan 
 
 ---
 
-# ***Fitur Website Taman Salma Shofa Samarinda***
+# ***Fitur Website***
 
 Website Taman Salma Shofa Samarinda memiliki berbagai fitur yang dirancang untuk memenuhi kebutuhan pengunjung dan admin. Fitur-fitur ini dibagi menjadi dua bagian utama, yaitu fitur untuk pengunjung (guest user) dan fitur untuk admin.
 
